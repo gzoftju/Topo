@@ -33,3 +33,5 @@
 > train_teather.py
 
 > pretrain.py
+
+### if any question , please issue
